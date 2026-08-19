@@ -4,7 +4,7 @@ I lead AI and data engineering at **Vinotheque**, building the data pipeline and
 
 ### 🔭 What I'm working on
 
-- 🎬 [briefrender](https://app.a-acc.com/): an agent harness and cli that turns your data into video presentations automatically 
+- 🎬 [briefrender](https://a-acc.com/): an agent harness and cli that turns your data into video presentations automatically 
 - 🍷 The data and analytics stack at Vinotheque
 - 🧬 Contributing to [TPOT](https://github.com/EpistasisLab/tpot), a 10k★ Python AutoML library that optimizes ML pipelines with genetic programming
 - 🤖 Co-authored early work evaluating LLM code generation against genetic programming on program synthesis ([LLMvsGP_comparison](https://github.com/gketronDS/LLMvsGP_comparison), GECCO 2025)
